@@ -1,0 +1,169 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Wireless Headphones",
+      "description": "High-quality wireless headphones with noise cancellation and 30-hour battery life",
+      "price": 199.99,
+      "category": "Electronics",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 50,
+      "rating": 4.5,
+      "brand": "SoundMax"
+    },
+    {
+      "id": 2,
+      "name": "Organic Cotton T-Shirt",
+      "description": "Comfortable 100% organic cotton t-shirt, available in multiple colors",
+      "price": 29.99,
+      "category": "Clothing",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 200,
+      "rating": 4.2,
+      "brand": "EcoWear"
+    },
+    {
+      "id": 3,
+      "name": "Smart Fitness Watch",
+      "description": "Advanced fitness tracker with heart rate monitoring and GPS",
+      "price": 149.99,
+      "category": "Electronics",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 75,
+      "rating": 4.7,
+      "brand": "TechFit"
+    },
+    {
+      "id": 4,
+      "name": "Professional Chef Knife",
+      "description": "High-carbon stainless steel chef knife with ergonomic handle",
+      "price": 89.99,
+      "category": "Kitchen",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 30,
+      "rating": 4.8,
+      "brand": "CulinaryPro"
+    },
+    {
+      "id": 5,
+      "name": "Leather Messenger Bag",
+      "description": "Genuine leather messenger bag with multiple compartments",
+      "price": 129.99,
+      "category": "Accessories",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 25,
+      "rating": 4.4,
+      "brand": "LeatherCraft"
+    },
+    {
+      "id": 6,
+      "name": "Gaming Mouse",
+      "description": "RGB gaming mouse with 16000 DPI and programmable buttons",
+      "price": 79.99,
+      "category": "Electronics",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 100,
+      "rating": 4.6,
+      "brand": "GameTech"
+    },
+    {
+      "id": 7,
+      "name": "Yoga Mat",
+      "description": "Non-slip eco-friendly yoga mat with carrying strap",
+      "price": 39.99,
+      "category": "Sports",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 150,
+      "rating": 4.3,
+      "brand": "ZenFit"
+    },
+    {
+      "id": 8,
+      "name": "Coffee Maker",
+      "description": "Programmable coffee maker with thermal carafe",
+      "price": 119.99,
+      "category": "Kitchen",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 40,
+      "rating": 4.5,
+      "brand": "BrewMaster"
+    },
+    {
+      "id": 9,
+      "name": "Winter Jacket",
+      "description": "Waterproof winter jacket with thermal insulation",
+      "price": 199.99,
+      "category": "Clothing",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 60,
+      "rating": 4.7,
+      "brand": "WinterPro"
+    },
+    {
+      "id": 10,
+      "name": "Mechanical Keyboard",
+      "description": "Mechanical gaming keyboard with Cherry MX switches",
+      "price": 129.99,
+      "category": "Electronics",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 80,
+      "rating": 4.8,
+      "brand": "TypeMaster"
+    },
+    {
+      "id": 11,
+      "name": "Portable Speaker",
+      "description": "Waterproof bluetooth speaker with 20-hour battery life",
+      "price": 89.99,
+      "category": "Electronics",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 70,
+      "rating": 4.4,
+      "brand": "SoundBox"
+    },
+    {
+      "id": 12,
+      "name": "Running Shoes",
+      "description": "Lightweight running shoes with cushioned sole",
+      "price": 119.99,
+      "category": "Sports",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 90,
+      "rating": 4.6,
+      "brand": "SpeedRun"
+    },
+    {
+      "id": 13,
+      "name": "Backpack",
+      "description": "Water-resistant laptop backpack with USB charging port",
+      "price": 69.99,
+      "category": "Accessories",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 120,
+      "rating": 4.5,
+      "brand": "TravelPro"
+    },
+    {
+      "id": 14,
+      "name": "Smart LED Bulb",
+      "description": "WiFi-enabled smart LED bulb with color changing",
+      "price": 34.99,
+      "category": "Smart Home",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 200,
+      "rating": 4.3,
+      "brand": "SmartLight"
+    },
+    {
+      "id": 15,
+      "name": "Wireless Charger",
+      "description": "Fast wireless charging pad compatible with all Qi devices",
+      "price": 49.99,
+      "category": "Electronics",
+      "imageUrl": "../../public/cardImage.png",
+      "stock": 150,
+      "rating": 4.4,
+      "brand": "PowerTech"
+    }
+  ]
+}
